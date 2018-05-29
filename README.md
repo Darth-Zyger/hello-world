@@ -2,4 +2,4 @@
 First repository!
 Hey guys,
 
-I like STar Wars and basketball. I also like robotics and reading.
+I like Star Wars and basketball. I also like robotics and reading.
